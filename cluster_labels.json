@@ -1,0 +1,212 @@
+{
+  "0": {
+    "label_index": 4,
+    "label": "Cost & infrastructure constraints",
+    "method": "rules",
+    "scores": {
+      "0": 1,
+      "1": 20,
+      "2": 0,
+      "3": 2,
+      "4": 33,
+      "5": 10,
+      "6": 4,
+      "7": 0,
+      "8": 8,
+      "9": 0
+    }
+  },
+  "1": {
+    "label_index": 4,
+    "label": "Cost & infrastructure constraints",
+    "method": "llm",
+    "confidence": 90,
+    "rationale": "The enterprise AI POC failed due to significant cost and infrastructure constraints, which made it challenging to implement and maintain.",
+    "scores": {
+      "0": 3,
+      "1": 10,
+      "2": 2,
+      "3": 9,
+      "4": 4,
+      "5": 11,
+      "6": 2,
+      "7": 3,
+      "8": 1,
+      "9": 1
+    }
+  },
+  "2": {
+    "label_index": 5,
+    "label": "Risk, compliance & legal",
+    "method": "rules",
+    "scores": {
+      "0": 0,
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 29,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 0
+    }
+  },
+  "3": {
+    "label_index": 1,
+    "label": "Poor workflow integration / IT alignment",
+    "method": "llm",
+    "confidence": 90,
+    "rationale": "",
+    "scores": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 0,
+      "5": 3,
+      "6": 1,
+      "7": 2,
+      "8": 0,
+      "9": 0
+    }
+  },
+  "4": {
+    "label_index": 2,
+    "label": "Data issues (quality, access, governance)",
+    "method": "llm",
+    "confidence": 90,
+    "rationale": "The representative snippets suggest that data quality and access are major concerns for the enterprise AI POC, with specific mentions of 'data science team' struggling to produce predictive models due to pressure.",
+    "scores": {
+      "0": 4,
+      "1": 5,
+      "2": 0,
+      "3": 2,
+      "4": 2,
+      "5": 0,
+      "6": 1,
+      "7": 2,
+      "8": 1,
+      "9": 0
+    }
+  },
+  "5": {
+    "label_index": 5,
+    "label": "Risk, compliance & legal",
+    "method": "rules",
+    "scores": {
+      "0": 1,
+      "1": 3,
+      "2": 1,
+      "3": 6,
+      "4": 2,
+      "5": 24,
+      "6": 1,
+      "7": 1,
+      "8": 2,
+      "9": 0
+    }
+  },
+  "6": {
+    "label_index": 5,
+    "label": "Risk, compliance & legal",
+    "method": "rules",
+    "scores": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 23,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 0
+    }
+  },
+  "7": {
+    "label_index": 3,
+    "label": "Change management / training / adoption",
+    "method": "rules",
+    "scores": {
+      "0": 0,
+      "1": 5,
+      "2": 0,
+      "3": 19,
+      "4": 7,
+      "5": 2,
+      "6": 0,
+      "7": 0,
+      "8": 1,
+      "9": 0
+    }
+  },
+  "8": {
+    "label_index": 1,
+    "label": "Poor workflow integration / IT alignment",
+    "method": "rules",
+    "scores": {
+      "0": 1,
+      "1": 41,
+      "2": 0,
+      "3": 2,
+      "4": 11,
+      "5": 5,
+      "6": 0,
+      "7": 3,
+      "8": 0,
+      "9": 1
+    }
+  },
+  "9": {
+    "label_index": 0,
+    "label": "No business case / unclear ROI",
+    "method": "rules",
+    "scores": {
+      "0": 25,
+      "1": 4,
+      "2": 0,
+      "3": 2,
+      "4": 12,
+      "5": 3,
+      "6": 3,
+      "7": 2,
+      "8": 0,
+      "9": 0
+    }
+  },
+  "10": {
+    "label_index": 1,
+    "label": "Poor workflow integration / IT alignment",
+    "method": "rules",
+    "scores": {
+      "0": 2,
+      "1": 18,
+      "2": 2,
+      "3": 3,
+      "4": 3,
+      "5": 2,
+      "6": 2,
+      "7": 3,
+      "8": 2,
+      "9": 1
+    }
+  },
+  "11": {
+    "label_index": 1,
+    "label": "Poor workflow integration / IT alignment",
+    "method": "rules",
+    "scores": {
+      "0": 0,
+      "1": 26,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 0,
+      "6": 1,
+      "7": 1,
+      "8": 2,
+      "9": 0
+    }
+  }
+}
